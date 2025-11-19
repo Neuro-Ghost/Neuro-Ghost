@@ -49,8 +49,16 @@ Building, fine-tuning, and deploying ML models for classification and prediction
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neuro-Ghost&show_icons=true&theme=default)  
-<div align="center">
+<div align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Neuro-Ghost&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ffffff&icon_color=ff6a00"
+    style="
+      border-radius: 15px;
+      transform: rotateY(-12deg);
+      box-shadow: 0 15px 25px rgba(255, 106, 0, 0.4);
+    ">
+</div>
+<div align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neuro-Ghost&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ffffff"
     style="
