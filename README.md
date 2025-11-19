@@ -1,7 +1,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neuro-Ghost&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-# 👋 Hey, I'm A. Ghost
+# 👋 Hey, I'm Ahmad Faour
 
-🚀 **Aspiring React Developer | AI Automation Enthusiast**  
+🚀 **Aspiring React Developer | AI Automation Enthusiast | Machine Learning Engineer **  
 📍 Based somewhere on the internet, always learning & building.
 
 ---
