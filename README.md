@@ -37,13 +37,13 @@ Built in Google Colab using the UK Online Retail dataset.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neuro-Ghost&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neuro-Ghost&layout=compact)
 
 ---
 
 ## 📫 Contact
-📩 **Email:** a.hfaour@hotmail.cpo
+📩 **Email:** a.hfaour@hotmail.com
 💼 **LinkedIn:** [click here](https://www.linkedin.com/in/ahmad--faour/) 
 
 
