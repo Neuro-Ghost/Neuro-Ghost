@@ -1,76 +1,124 @@
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neuro-Ghost&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ────────────────────────────────────────────── -->
+<!-- CYBERPUNK HOLOGRAM HEADER -->
+<!-- ────────────────────────────────────────────── -->
 
-# Hey, I'm Ahmad Faour
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neuro-Ghost&theme=react-dark&hide_border=true"
+    style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 0 30px #ff6a00;">
+</div>
 
-🚀 **Front-end Developer | AI Automation Enthusiast | Machine Learning Engineer**  
-📍 Always learning, always building.
+<h1 align="center" style="font-size: 45px; font-weight: bold; color: #ff6a00; text-shadow: 0 0 20px #ff6a00;">
+  ⚡ Ahmad Faour — <span style="color:white;">Neuro-Ghost</span>
+</h1>
+
+<p align="center" style="font-size: 18px; color: #c9d1d9;">
+  🚀 <strong>Front-end Developer</strong> • 🤖 <strong>AI Automation Builder</strong> • 🧠 <strong>Machine Learning Engineer</strong><br>
+  <em>Always learning. Always building. Always evolving.</em>
+</p>
 
 ---
+
+<!-- ────────────────────────────────────────────── -->
+<!-- ABOUT ME — GLOW LIST -->
+<!-- ────────────────────────────────────────────── -->
 
 ## ⚡ About Me
-- 💻 Learning **React**, **Next.js**, and front-end ecosystem  
-- 🤖 Skilled in **Machine Learning, Neural Networks, and Model Deployment**  
-- 🧠 Build AI automations, agents, and tools with Python  
-- 📞 Currently working in a call-center while transitioning into tech  
-- 🎯 Focused on improving my portfolio with practical projects  
+<ul style="font-size: 17px; line-height: 1.6;">
+  <li>💻 Diving deep into <strong>React</strong>, <strong>Next.js</strong>, and modern frontend</li>
+  <li>🤖 Skilled in <strong>Neural Networks</strong>, <strong>Model Training</strong>, <strong>Fine-tuning</strong></li>
+  <li>🧠 Build <strong>AI agents</strong>, automations & tools using Python</li>
+  <li>📞 Working in a call-center while breaking into tech</li>
+  <li>🔥 Relentlessly building a <strong>solid portfolio</strong></li>
+</ul>
 
 ---
+
+<!-- ────────────────────────────────────────────── -->
+<!-- TECH STACK — NEON BADGES -->
+<!-- ────────────────────────────────────────────── -->
 
 ## 🔧 Tech Stack
 
-### **🌐 Frontend**
-React • JavaScript • HTML • CSS • Tailwind • Vite
+### 🌐 **Frontend**
+`React` `JavaScript` `HTML` `CSS` `Tailwind` `Vite`
 
-### **⚙️ Backend**
-Node.js (learning) • Python • FastAPI • Flask
+### ⚙️ **Backend**
+`Node.js` `Python` `FastAPI` `Flask`
 
-### **🤖 AI & Machine Learning**
-Neural Networks • Scikit-Learn • Pandas • NumPy  
-PyTorch • TensorFlow • Model Training • Fine-tuning  
-Model Hosting (Flask/FastAPI/Colab/Cloud)  
-LangChain • LLM-based automation • OpenAI API
+### 🤖 **AI / Machine Learning**
+`Neural Networks` `PyTorch` `TensorFlow` `Scikit-Learn`  
+`Model Training` `Fine-tuning` `Model Hosting`  
+`LLM Automation` `LangChain` `OpenAI API`
 
-### **🧰 Tools**
-Git • GitHub • VS Code • Colab • Postman  
+### 🧰 **Tools**
+`Git` `GitHub` `VS Code` `Colab` `Postman`
 
 ---
+
+<!-- ────────────────────────────────────────────── -->
+<!-- FEATURED PROJECTS — HOLOGRAM TABS -->
+<!-- ────────────────────────────────────────────── -->
 
 ## 🛠 Featured Projects
 
-### 🔹 **RFM Customer Segmentation**
-Machine learning segmentation using the UK Online Retail dataset, built in Google Colab.
+<div style="padding: 15px; border-radius: 20px; background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(255,106,0,0.2); margin-bottom: 25px;">
+  <h3 style="color:#ff6a00;">🔹 RFM Customer Segmentation</h3>
+  Machine-learning segmentation using UK Retail dataset.
+</div>
 
-### 🔹 **AI Automation Tools**
-Scripts and agents for auto-ticketing, email drafting, and knowledge retrieval.
+<div style="padding: 15px; border-radius: 20px; background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(255,106,0,0.2); margin-bottom: 25px;">
+  <h3 style="color:#ff6a00;">🔹 AI Automation Tools</h3>
+  Custom Python agents for ticketing, email drafting & workflow automation.
+</div>
 
-### 🔹 **Neural Network Training Projects**
-Building, fine-tuning, and deploying ML models for classification and prediction tasks.
+<div style="padding: 15px; border-radius: 20px; background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(255,106,0,0.2);">
+  <h3 style="color:#ff6a00;">🔹 Neural Network Training Projects</h3>
+  Building and deploying deep learning models for classification tasks.
+</div>
 
 ---
 
+<!-- ────────────────────────────────────────────── -->
+<!-- GITHUB STATS — 3D HOLOGRAM CARDS -->
+<!-- ────────────────────────────────────────────── -->
+
 ## 📊 GitHub Stats
-<div align="left">
+
+<div align="center" style="margin-bottom: 25px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Neuro-Ghost&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ffffff&icon_color=ff6a00"
     style="
       border-radius: 15px;
       transform: rotateY(-12deg);
-      box-shadow: 0 15px 25px rgba(255, 106, 0, 0.4);
+      box-shadow: 0 15px 25px rgba(255,106,0,0.4);
+      margin-right: 20px;
     ">
-</div>
-<div align="left">
+  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neuro-Ghost&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=ffffff"
     style="
       border-radius: 15px;
       transform: rotateY(12deg);
-      box-shadow: 0 15px 25px rgba(255, 106, 0, 0.4);
+      box-shadow: 0 15px 25px rgba(255,106,0,0.4);
     ">
 </div>
 
+---
+
+<!-- ────────────────────────────────────────────── -->
+<!-- CONTACT — NEON LINKS -->
+<!-- ────────────────────────────────────────────── -->
+
+## 📫 Contact
+
+**📩 Email:**  
+<a href="mailto:a.hfaour@hotmail.com" style="font-size: 18px; color: #ff6a00;">a.hfaour@hotmail.com</a>
+
+**💼 LinkedIn:**  
+<a href="https://www.linkedin.com/in/ahmad--faour/" style="font-size: 18px; color: #00caff; text-shadow: 0 0 10px #00caff;">Click Here</a>
 
 ---
 
-## 📫 Contact
-- 📩 **Email:** a.hfaour@hotmail.com  
-- 💼 **LinkedIn:** [click here](https://www.linkedin.com/in/ahmad--faour/)  
+<p align="center" style="margin-top: 40px; font-size: 14px; color: #555;">
+  ⚡ Powered by curiosity • Built with passion • Styled by chaos
+</p>
