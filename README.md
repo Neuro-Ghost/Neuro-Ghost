@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center" style="font-size: 45px; font-weight: bold; color: #ff6a00; text-shadow: 0 0 20px #ff6a00;">
-  ⚡ Ahmad Faour — <span style="color:white;">Neuro-Ghost</span>
+ Ahmad Faour 
 </h1>
 
 <p align="center" style="font-size: 18px; color: #c9d1d9;">
