@@ -66,11 +66,6 @@
   Machine-learning segmentation using UK Retail dataset.
 </div>
 
-<div style="padding: 15px; border-radius: 20px; background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(255,106,0,0.2); margin-bottom: 25px;">
-  <h3 style="color:#ff6a00;">🔹 AI Automation Tools</h3>
-  Custom Python agents for ticketing, email drafting & workflow automation.
-</div>
-
 <div style="padding: 15px; border-radius: 20px; background: rgba(255,255,255,0.03); backdrop-filter: blur(10px); box-shadow: 0 0 25px rgba(255,106,0,0.2);">
   <h3 style="color:#ff6a00;">🔹 Neural Network Training Projects</h3>
   Building and deploying deep learning models for classification tasks.
